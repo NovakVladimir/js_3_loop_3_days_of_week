@@ -1,0 +1,31 @@
+body {
+    width: 98vw;
+    height: 98vh;
+    margin: 0 auto;
+}
+
+section {
+    padding: 1vw;
+}
+
+p {
+    font-size: 20px;
+}
+
+span {
+    font-size: 20px;
+}
+
+input {
+    font-size: 18px;
+    margin: 0 15px;
+    width: 100px;
+}
+
+input[type="button"]:hover {
+    background-color: darksalmon;
+}
+
+.conditions {
+    background-color: antiquewhite;
+}
